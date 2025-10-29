@@ -95,7 +95,7 @@ export function TimeRecode() {
 
   return (
     <div>
-      <Title>学習記録一覧</Title>
+      <Title>学習記録一覧デプロイ後</Title>
       <InputText inputText={inputText} onChangeText={onChangeText}>
         学習内容
       </InputText>
